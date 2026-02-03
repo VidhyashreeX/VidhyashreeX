@@ -153,10 +153,14 @@ An AI system that understands resumes and job descriptions.
 **B.N.M. Institute of Technology, Bengaluru**  
 Bachelor of Engineering — Artificial Intelligence & Machine Learning  
 Dec 2021 – Jul 2025  
-CGPA: 8.08 | SGPA (6th Sem): 8.45
+CGPA: 8.08 
+
+**Oceanik pre-university college**
+PCMC
+81%
 
 **Parikrma Centre of Learning (PUC)**  
-Computer Science  
+High school
 81%
 
 ---
