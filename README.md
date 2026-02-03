@@ -1,4 +1,4 @@
-# Hi, I’m Vidhyashree 👋
+# Hi, I’m Vidhyashree Shanmugam
 
 AI & Machine Learning Engineer | Full Stack Developer  
 Based in Bengaluru, India
