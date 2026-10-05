@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Vidhyashree Shanmugam</title>
+  <desc id="desc">Machine Learning Engineer building practical AI products</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827" />
+      <stop offset="0.52" stop-color="#312e81" />
+      <stop offset="1" stop-color="#0f766e" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.22" r="0.62">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#background)" />
+  <rect width="1200" height="300" rx="28" fill="url(#glow)" />
+
+  <g fill="none" stroke="#a5f3fc" stroke-opacity="0.18">
+    <path d="M858 36 C944 54 971 120 1056 116 S1151 74 1198 97" />
+    <path d="M810 236 C904 197 958 223 1040 186 S1136 142 1205 175" />
+    <circle cx="1010" cy="72" r="8" fill="#67e8f9" stroke="none" />
+    <circle cx="1116" cy="192" r="6" fill="#a78bfa" stroke="none" />
+    <circle cx="915" cy="213" r="5" fill="#5eead4" stroke="none" />
+    <circle cx="1010" cy="72" r="22" stroke-width="2" />
+    <circle cx="1116" cy="192" r="18" stroke-width="2" />
+  </g>
+
+  <circle cx="1010" cy="72" r="30" fill="#67e8f9" fill-opacity="0.16" filter="url(#softGlow)" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#ffffff">
+    <text x="70" y="105" font-size="25" font-weight="600" letter-spacing="3" fill="#99f6e4">HELLO, I’M</text>
+    <text x="66" y="174" font-size="60" font-weight="750">Vidhyashree Shanmugam</text>
+    <text x="70" y="222" font-size="25" font-weight="450" fill="#dbeafe">Machine Learning Engineer building practical AI products</text>
+    <text x="70" y="260" font-size="18" font-weight="500" letter-spacing="1.2" fill="#a5f3fc">RAG  ·  SEMANTIC SEARCH  ·  BACKEND APIs  ·  FULL-STACK AI</text>
+  </g>
+</svg>
